@@ -4,6 +4,3 @@ I am an economics student at Scripps College interested in business reporting, d
 
 Email: mdheeter@gmail.com
 
-Twitter: @heetermaria
-
-
