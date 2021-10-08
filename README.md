@@ -1,6 +1,6 @@
-# Contact Maria Heeter
+# Contact 
 
-I am an economics student at Scripps College interested in business reporting, data science and real estate. 
+I am an economics student at Scripps College interested in business reporting, data science and real estate. Learn more [about me here](https://github.com/heetermaria/about).
 
 Basic details
 ---
