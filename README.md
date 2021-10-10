@@ -11,6 +11,6 @@ Basic details
 Encrypted messaging 
 ---
 
-You can use either email or Twitter to ask for my Signal, an app used for encrypted messaging and phone calls. You can download it [here](https://signal.org/en/download/). 
+You can use either email or Twitter to ask for my Signal, an app used for encrypted messaging and phone calls. You can download it [here](https://signal.org/en/download/). (I love Signal - I use it more than texting!) 
 
 
