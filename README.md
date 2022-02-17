@@ -1,6 +1,6 @@
 # Contact 
 
-I am an economics student at Scripps College interested in business reporting, data science and real estate. Learn more [about me here](https://github.com/heetermaria/about).
+I am an economics student at Scripps College interested in business reporting, data science and real estate. In May, I'll join The Information as a reporter on the crypto/venture capital/finance team. Learn more [about me here](https://github.com/heetermaria/about).
 
 Basic details
 ---
