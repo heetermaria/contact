@@ -5,7 +5,7 @@ I am an economics student at Scripps College interested in business reporting, d
 Basic details
 ---
 
-* Email: mdheeter@gmail.com
+* Email: mdheeter@gmail.com (work email coming soon...) 
 * Twitter (DM): [@heetermaria](https://twitter.com/heetermaria)
 
 Encrypted messaging 
