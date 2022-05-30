@@ -1,16 +1,16 @@
 # Contact 
 
-I am an economics student at Scripps College interested in business reporting, data science and real estate. In May, I'll join The Information as a reporter on the crypto/venture capital/finance team. Learn more [about me here](https://github.com/heetermaria/about).
+I'm a VC reporter at The Information. I cover late-stage startups, IPOs and crossover funds. Learn more [about me here](https://github.com/heetermaria/about).
 
 Basic details
 ---
 
-* Email: mdheeter@gmail.com (If you're reaching me wrt The Information, my work email will be coming soon...) 
+* Email: maria_heeter@theinformation.com  
 * Twitter (DM): [@heetermaria](https://twitter.com/heetermaria)
 
 Encrypted messaging 
 ---
 
-You can use either email or Twitter to ask for my Signal, an app used for encrypted messaging and phone calls. You can download it [here](https://signal.org/en/download/). (I love Signal -- I use it more than texting!) 
+Reach me on Signal (an encrypted messaging app for secure communication) at TK.
 
 
