@@ -13,4 +13,6 @@ Encrypted messaging
 
 Reach me on Signal (an encrypted messaging app for secure communication) at TK.
 
+For encrypted email, reach me at my Proton email: mheeter@proton.me 
+
 
