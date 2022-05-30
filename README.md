@@ -8,7 +8,7 @@ Basic details
 * Email: maria_heeter@theinformation.com  
 * Twitter (DM): [@heetermaria](https://twitter.com/heetermaria)
 
-Encrypted messaging 
+Encrypted communication 
 ---
 
 * Messaging: Reach me on [Signal](https://signal.org/#signal), an encrypted messaging app for secure communication, at TK.
