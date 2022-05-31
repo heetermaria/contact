@@ -11,7 +11,7 @@ Basic details
 Encrypted communication 
 ---
 
-* Messaging: Reach me on [Signal](https://signal.org/#signal), an encrypted messaging app for secure communication, at TK.
+* Messaging: Reach me on [Signal](https://signal.org/#signal), an encrypted messaging app for secure communication, or Telegram at (323) 917-1191. 
 * Email: For encrypted email, reach me at my Proton email: mheeter@proton.me 
 
 
