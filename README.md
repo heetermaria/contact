@@ -6,7 +6,7 @@ Basic details
 ---
 
 * Email: maria_heeter@theinformation.com  
-* Twitter (DM): [@heetermaria](https://twitter.com/heetermaria)
+* Twitter: [@heetermaria](https://twitter.com/heetermaria)
 
 Encrypted communication 
 ---
