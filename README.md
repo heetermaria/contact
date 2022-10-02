@@ -5,7 +5,7 @@ I'm a VC reporter at The Information. I cover late-stage startups, IPOs and cros
 Basic details
 ---
 
-* Email: maria_heeter@theinformation.com  
+* Email: heeter@theinformation.com  
 * Twitter: [@heetermaria](https://twitter.com/heetermaria)
 
 Encrypted communication 
